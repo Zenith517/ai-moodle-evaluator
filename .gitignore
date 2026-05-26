@@ -1,0 +1,25 @@
+# -----------------------------
+# Master .gitignore
+# -----------------------------
+
+# 🚨 SECURITY: NEVER UPLOAD ENVIRONMENT VARIABLES 🚨
+.env
+**/.env
+*.env
+
+# Python Virtual Environments & Cache
+venv/
+env/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Temporary Processing Files & Data
+backend-python/data/
+*.csv
+*.pdf
+*.xml
+
+# OS generated files
+.DS_Store
+Thumbs.db
