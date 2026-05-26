@@ -52,4 +52,4 @@ python api.py
 
 ## 👨‍💻 Author
 **Somesh Nikhare**
-B.Tech in Computer Science and Engineering
+IDD in Computer Science and Engineering
