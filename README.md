@@ -53,3 +53,5 @@ python api.py
 ## 👨‍💻 Author
 **Somesh Nikhare**
 IDD in Computer Science and Engineering
+**Archit Vyas**
+Btech in Electronics Engineering
